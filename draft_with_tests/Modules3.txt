@@ -1,0 +1,12 @@
+CSC3121, Distributed Systems, 10
+CSC3122, Mobile Computer Systems Development, 10
+CSC3123, Web Technologies, 10
+CSC3124, System and Network Security, 10
+CSC3221, Programming for Games, 10
+CSC3222, Gaming Simulations, 10
+CSC3223, Graphics for Games, 10
+CSC3224, Computer Games Development, 10
+CSC3321, Understanding Programming Languages, 10
+CSC3322, Real-Time and Cyber-Physical Systems, 10
+CSC3323, Software Verification Technologies, 10
+CSC3324, Understanding Concurrency, 10
