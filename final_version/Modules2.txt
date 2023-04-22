@@ -1,0 +1,6 @@
+CSC2021, Software Engineering, 20
+CSC2022, Software Engineering Team Project, 20
+CSC2023, Algorithm Design and Analysis, 20
+CSC2024, Database Technology, 20
+CSC2025, Operating Systems, 20
+CSC2026, Computer Networks, 20
